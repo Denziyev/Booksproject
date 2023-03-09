@@ -1,0 +1,15 @@
+C:\Users\VO\Desktop\projeee\projeee\bin\Debug\net7.0\projeee.exe
+C:\Users\VO\Desktop\projeee\projeee\bin\Debug\net7.0\projeee.deps.json
+C:\Users\VO\Desktop\projeee\projeee\bin\Debug\net7.0\projeee.runtimeconfig.json
+C:\Users\VO\Desktop\projeee\projeee\bin\Debug\net7.0\projeee.dll
+C:\Users\VO\Desktop\projeee\projeee\bin\Debug\net7.0\projeee.pdb
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\projeee.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\projeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\projeee.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\projeee.AssemblyInfo.cs
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\projeee.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\projeee.dll
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\refint\projeee.dll
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\projeee.pdb
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\projeee.genruntimeconfig.cache
+C:\Users\VO\Desktop\projeee\projeee\obj\Debug\net7.0\ref\projeee.dll
